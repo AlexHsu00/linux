@@ -32,3 +32,6 @@ https://blog.gtwang.org/linux/linux-grep-command-tutorial-examples/
 
 https://juejin.cn/post/6844903586128723981
 
+find
+find -iname log -type d
+
